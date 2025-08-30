@@ -113,8 +113,3 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
----
-
-*Built with ❤️ for healthcare AI applications*etes Risk Prediction
-Experimenting 8 Classification Algorithms in Machine Learning with Python using the Early stage diabetes risk prediction dataset.
